@@ -1,0 +1,24 @@
+
+.homeDesign {
+
+    height: 80vh;
+    width: 100vw;
+
+    background-color: darkcyan;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-direction: row;
+}
+
+.row {
+    height: 80vh;
+    width: 50vw;
+
+    flex-direction: column;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}

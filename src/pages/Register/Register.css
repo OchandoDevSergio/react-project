@@ -1,0 +1,41 @@
+
+.registerDesign {
+    
+    height: 80vh;
+    width: 100vw;
+
+    background-color:deepskyblue;
+
+    display: flex;
+    justify-content:flex-start;
+    align-items:center;
+
+    flex-direction: column;
+}
+
+.upperColumn {
+    height: 60vh;
+    width: 50vw;
+
+    flex-direction: row;
+    display: flex;
+}
+
+.row {
+    height: 60vh;
+    width: 50vw;
+
+    flex-direction: column;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.lowerColumn {
+    height: 20vh;
+    width: 50vw;
+
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}

@@ -1,0 +1,12 @@
+
+.headerDesign {
+
+    height: 20vh;
+    width: 100vw;
+
+    background-color: olive;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
